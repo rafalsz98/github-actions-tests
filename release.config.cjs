@@ -4,8 +4,20 @@
 module.exports = {
   branches: ["master"],
   plugins: [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
+    [
+      "@bobvanderlinden/semantic-release-pull-request-analyzer",
+      {
+        labels: {
+          prerelease: "prerelease",
+          prepatch: "prepatch",
+          patch: "patch",
+          preminor: "preminor",
+          minor: "minor",
+          premajor: "premajor",
+          major: "major",
+        },
+      },
+    ],
     "@semantic-release/npm",
     "@semantic-release/github",
     "@semantic-release/git",
