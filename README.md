@@ -25,5 +25,3 @@ test merge
 this is the next feature
 
 only rebase
-
-test squash
