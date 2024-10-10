@@ -20,8 +20,6 @@ test change 4
 
 this is some feature
 
-test merge
-
 this is the next feature
 
 only rebase
