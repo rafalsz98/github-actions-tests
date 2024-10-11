@@ -27,3 +27,5 @@ only rebase
 merge1
 
 merge2
+
+merge3
