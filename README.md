@@ -1,5 +1,7 @@
 # github-actions-tests
 
+squash1
+
 asdasdasvlaskl daskljfaslkd
 Feature no. 1
 
