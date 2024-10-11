@@ -14,6 +14,8 @@ Now using npm version
 
 rebase1
 
+rebase2
+
 test change 2
 
 test change 3
