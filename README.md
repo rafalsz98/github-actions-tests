@@ -31,3 +31,9 @@ this is some feature
 this is the next feature
 
 only rebase
+
+merge1
+
+merge2
+
+merge3
