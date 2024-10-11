@@ -2,6 +2,8 @@
 
 squash1
 
+squash2
+
 asdasdasvlaskl daskljfaslkd
 Feature no. 1
 
